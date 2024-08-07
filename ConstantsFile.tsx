@@ -9,6 +9,7 @@ const Constants = {
     //permissions from api at https://developer.spotify.com/documentation/web-api/concepts/scopes
     REACT_APP_BASE_URL: "http://localhost:5173",
     CLIENT_SECRET: "1034d5e458324454bd304f61a711a20f",
+    RESPONSE_TYPE: "token",
     SCOPES: ["user-top-read"],
     SPACE_DELIM: "%20",
 }
